@@ -1,0 +1,83 @@
+
+.home {
+    height: 100vh;
+    background-image: url(img/head.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#main-nav{
+transition: background-color 2s ;
+}
+
+
+.nav-item {
+    padding-left: 50px;
+}
+
+.navbar {
+    z-index: 9999999;
+    font-weight: 700;
+    font-size: large;
+    background-color: #1c030385 ;
+
+}
+
+.sec2 img {
+    width: 70%;
+    border-radius: 20px;
+}
+
+.bob {
+    background-color: rgb(172, 72, 114);
+    border:none;
+    border-radius: 10px !important;
+}
+
+
+.serv img {
+    border-radius: 30%;
+    width: 90%;
+}
+
+.serv h4 {
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.serv:hover img {
+    transform: scale(1.1);
+
+}
+
+.serv:hover h4 {
+
+    font-weight: 900;
+    color: rgb(125, 14, 61);
+}
+
+
+
+.sss:hover{
+    color: rgb(42, 50, 165);
+font-size: large;
+}
+
+.s:hover{
+    color: brown;
+}
+
+.s{
+    padding: 5px;
+}
+.ss{
+    background: #333333;
+}
+
+
+.font{
+    font-size: 25px !important;
+}
+.cart-pic{
+    width: 20% !important;
+    height: 20%!important;
+}
